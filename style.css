@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: #1F2937;
+    height: 230px
+}
+.container {
+    display: flex;
+    height: 20px;
+}
+ul {
+    justify-content: space-evenly;
+    flex-direction: row;
+}
